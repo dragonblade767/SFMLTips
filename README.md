@@ -57,7 +57,7 @@ public:
         loadFromFile(path);
     }
 };
-Texture backgroun("Assets/Texture/image.png");
+Texture background("Assets/Texture/image.png");
 Font Arial("Assets/Font/Arial.ttf");
 }
 ```
