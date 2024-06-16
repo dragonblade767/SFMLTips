@@ -9,7 +9,7 @@ Assets are basically a bunch of external data, images, fonts, music or any other
 
 namespace Assets
 {
-sf::Texture backgroun;
+sf::Texture background;
 sf::Font Arial;
 }
 ```
